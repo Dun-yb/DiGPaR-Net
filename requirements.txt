@@ -1,0 +1,10 @@
+opencv-python==4.6.0.66
+tqdm
+einops
+torch
+torchvision
+torchaudio
+timm
+thop
+torchstat
+mamba-ssm==2.2.2
