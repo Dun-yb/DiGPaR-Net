@@ -1,5 +1,11 @@
 # DiGPaR-Net
 
+## 📖 About This Project
+
+This code repository is directly related to our research manuscript submitted to *The Visual Computer* journal. To enhance the transparency and reproducibility of our research, we provide complete experimental code here.
+
+**Important Notice: If you use any code or data from this repository, please cite our related manuscript in *The Visual Computer*.**
+
 ## Preparation
 
 ### Download
